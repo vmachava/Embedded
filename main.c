@@ -3,5 +3,5 @@ main()
 {
     int i=10;
     printf("Hello world %d\n",i);
-retunr 0;
+retun 0;
 }
